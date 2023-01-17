@@ -1,0 +1,21 @@
+.container {
+  padding: 2rem 0rem !important;
+}
+
+h4 {
+  margin: 2rem 0rem 1rem;
+}
+
+.table-image td,
+th {
+  vertical-align: middle;
+}
+
+.btn {
+  background: #ea001e;
+  color: white;
+}
+.btn:hover {
+  background: #ea001e;
+  color: white;
+}
